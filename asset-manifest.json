@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/green-shop/static/css/main.aa99b7a6.css",
+    "main.js": "/green-shop/static/js/main.417a6a9a.js",
+    "index.html": "/green-shop/index.html",
+    "main.aa99b7a6.css.map": "/green-shop/static/css/main.aa99b7a6.css.map",
+    "main.417a6a9a.js.map": "/green-shop/static/js/main.417a6a9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa99b7a6.css",
+    "static/js/main.417a6a9a.js"
+  ]
+}
